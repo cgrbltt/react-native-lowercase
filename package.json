@@ -1,0 +1,12 @@
+{
+  "name": "react-native-lowercase",
+  "version": "0.0.3",
+  "description": "React Native Lowercase Text",
+  "main": "index.js",
+  "author": "Çağrı Bulut <cgrblt@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^16.12.0",
+    "react-native": "^0.61.5"
+  }
+}
